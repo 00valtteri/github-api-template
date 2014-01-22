@@ -1,4 +1,4 @@
-# Project Title
+# VAL'S PROJECT TITLE
 
 ## Authors
 
